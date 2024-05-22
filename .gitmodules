@@ -13,3 +13,9 @@
 [submodule "3-2/Network/FinalProject"]
 	path = 3-2/Network/FinalProject
 	url = https://github.com/punyaphatsura/network-project.git
+[submodule "3-2/SW-Dev-Prac-I/FinalProject/SW-Dev-I-Project-Backend"]
+	path = 3-2/SW-Dev-Prac-I/FinalProject/SW-Dev-I-Project-Backend
+	url = https://github.com/punyaphatsura/SW-Dev-I-Project-Backend.git
+[submodule "3-2/SW-Dev-Prac-I/FinalProject/SW-Dev-I-Project-Frontend"]
+	path = 3-2/SW-Dev-Prac-I/FinalProject/SW-Dev-I-Project-Frontend
+	url = https://github.com/punyaphatsura/SW-Dev-I-Project-Frontend.git
