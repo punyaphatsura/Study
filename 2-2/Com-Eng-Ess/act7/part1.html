@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" initial-scale="1.0" />
+    <title> Activity 7 </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1 id="app-name">ฝากซื้อด้วย</h1>
+    <section>
+        <h2 class="section-title">รายชื่อผู้มีสิทธิ์ฝากซื้อ</h2>
+        <p class="section-subtitle">(ชื่อคนในกลุ่มที่มาร่วมทำวันนี้)</p>
+        <ul id="member-list">
+            <li>ปุญญพัฒน์ สุรเกียรติกำจร</li>
+            <li>ศุภฤกษ์ คงประพันธ์</li>
+            <li>วชิรวิชญ์ กานิล</li>
+            <li>ภูภิพัทธ์ สิงขร</li>
+        </ul>
+    </section>
+    <section>
+        <h2 class="section-title">รายการฝากซื้อ</h2>
+        <table id="main-table">
+            <thead>
+                <tr>
+                    <th>ของที่ฝากซื้อ</th>
+                    <th>ชื่อผู้ฝากซื้อ</th>
+                    <th>ราคา(บาท)</th>
+                    <th>ดำเนินการ</th>
+                </tr>
+            </thead>
+            <tr>
+                <td>A</td>
+                <td>วชิรวิชญ์ กานิล</td>
+                <td>10</td>
+                <td>
+                    <input class="delete-row" type="button" value="ลบ" onclick="removeRow(this)">
+                </td>
+            </tr>
+            <tr>
+                <td>B</td>
+                <td>วชิรวิชญ์ กานิล</td>
+                <td>10</td>
+                <td>
+                    <input class="delete-row" type="button" value="ลบ" onclick="removeRow(this)">
+                </td>
+            </tr>
+            <tr>
+                <td>C</td>
+                <td>วชิรวิชญ์ กานิล</td>
+                <td>10</td>
+                <td>
+                    <input class="delete-row" type="button" value="ลบ" onclick="removeRow(this)">
+                </td>
+            </tr>
+            <tr>
+                <td>D</td>
+                <td>วชิรวิชญ์ กานิล</td>
+                <td>10</td>
+                <td>
+                    <input class="delete-row" type="button" value="ลบ" onclick="removeRow(this)">
+                </td>
+            </tr>
+            <tr>
+                <td>E</td>
+                <td>วชิรวิชญ์ กานิล</td>
+                <td>10</td>
+                <td>
+                    <input class="delete-row" type="button" value="ลบ" onclick="removeRow(this)">
+                </td>
+            </tr>
+
+        </table>
+    </section>
+    <script src="script.js"></script>
+</body>
