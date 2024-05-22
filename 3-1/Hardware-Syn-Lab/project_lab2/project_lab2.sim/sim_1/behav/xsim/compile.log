@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Meep/Desktop/File/hw_syn_lab/project_lab2/project_lab2.srcs/sources_1/new/clock_divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clock_divider
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'clk_out' is not allowed [C:/Users/Meep/Desktop/File/hw_syn_lab/project_lab2/project_lab2.srcs/sources_1/new/clock_divider.v:28]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Meep/Desktop/File/hw_syn_lab/project_lab2/project_lab2.srcs/sources_1/new/hex_to_7seg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hex_to_7seg
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'segment' is not allowed [C:/Users/Meep/Desktop/File/hw_syn_lab/project_lab2/project_lab2.srcs/sources_1/new/hex_to_7seg.v:27]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Meep/Desktop/File/hw_syn_lab/project_lab2/project_lab2.srcs/sources_1/new/seven_segment_tdm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seven_segment_tdm
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Meep/Desktop/File/hw_syn_lab/project_lab2/project_lab2.srcs/sources_1/new/combined.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module combined

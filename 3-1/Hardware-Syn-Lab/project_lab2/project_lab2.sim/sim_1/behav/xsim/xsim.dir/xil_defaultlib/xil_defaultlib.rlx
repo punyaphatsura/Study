@@ -1,0 +1,9 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/Meep/Desktop/File/hw_syn_lab/project_lab2/project_lab2.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+C:/Users/Meep/Desktop/File/hw_syn_lab/project_lab2/project_lab2.srcs/sources_1/new/clock_divider.v,1693846338,verilog,,C:/Users/Meep/Desktop/File/hw_syn_lab/project_lab2/project_lab2.srcs/sources_1/new/hex_to_7seg.v,,clock_divider,,,,,,,,
+C:/Users/Meep/Desktop/File/hw_syn_lab/project_lab2/project_lab2.srcs/sources_1/new/combined.v,1693847453,verilog,,,,combined,,,,,,,,
+C:/Users/Meep/Desktop/File/hw_syn_lab/project_lab2/project_lab2.srcs/sources_1/new/hex_to_7seg.v,1693842578,verilog,,C:/Users/Meep/Desktop/File/hw_syn_lab/project_lab2/project_lab2.srcs/sources_1/new/seven_segment_tdm.v,,hex_to_7seg,,,,,,,,
+C:/Users/Meep/Desktop/File/hw_syn_lab/project_lab2/project_lab2.srcs/sources_1/new/seven_segment_tdm.v,1693847607,verilog,,C:/Users/Meep/Desktop/File/hw_syn_lab/project_lab2/project_lab2.srcs/sources_1/new/combined.v,,seven_segment_tdm,,,,,,,,
