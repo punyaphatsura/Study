@@ -19,3 +19,6 @@
 [submodule "3-2/SW-Dev-Prac-I/FinalProject/SW-Dev-I-Project-Frontend"]
 	path = 3-2/SW-Dev-Prac-I/FinalProject/SW-Dev-I-Project-Frontend
 	url = https://github.com/punyaphatsura/SW-Dev-I-Project-Frontend.git
+[submodule "3-2/SE-2/FinalProject"]
+	path = 3-2/SE-2/FinalProject
+	url = https://github.com/Admin-OR-1-1/2110336-SE2-Crafty.git
