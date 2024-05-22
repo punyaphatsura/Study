@@ -1,3 +1,6 @@
 [submodule "2-2/Embed-Sys-Lab/FinalProject"]
 	path = 2-2/Embed-Sys-Lab/FinalProject
 	url = https://github.com/punyaphatsura/embed-sys-lab-final.git
+[submodule "2-1/Prog-Meth/FinalProject"]
+	path = 2-1/Prog-Meth/FinalProject
+	url = https://github.com/punyaphatsura/The_Farmer_and_The_Viper.git
