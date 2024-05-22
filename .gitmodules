@@ -4,3 +4,6 @@
 [submodule "2-1/Prog-Meth/FinalProject"]
 	path = 2-1/Prog-Meth/FinalProject
 	url = https://github.com/punyaphatsura/The_Farmer_and_The_Viper.git
+[submodule "3-1/Hardware-Syn-Lab/FinalProject"]
+	path = 3-1/Hardware-Syn-Lab/FinalProject
+	url = https://github.com/punyaphatsura/HW_Syn_Lab_Pong.git
