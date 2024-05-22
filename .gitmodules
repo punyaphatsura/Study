@@ -10,3 +10,6 @@
 [submodule "3-2/Data-Sci/FinalProject"]
 	path = 3-2/Data-Sci/FinalProject
 	url = https://github.com/punyaphatsura/paper-reference-graph.git
+[submodule "3-2/Network/FinalProject"]
+	path = 3-2/Network/FinalProject
+	url = https://github.com/punyaphatsura/network-project.git
