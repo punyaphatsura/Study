@@ -7,3 +7,6 @@
 [submodule "3-1/Hardware-Syn-Lab/FinalProject"]
 	path = 3-1/Hardware-Syn-Lab/FinalProject
 	url = https://github.com/punyaphatsura/HW_Syn_Lab_Pong.git
+[submodule "3-2/Data-Sci/FinalProject"]
+	path = 3-2/Data-Sci/FinalProject
+	url = https://github.com/punyaphatsura/paper-reference-graph.git
