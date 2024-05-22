@@ -1,0 +1,19 @@
+db.product.insertMany(
+    [
+        {
+            product_id:7,
+            product_name:"kitchen cabinet",
+            product_color:"Cherry",
+            price:1500.00
+        },
+
+        {
+            product_id:8,
+            product_name:"Table",
+            product_color:"Red Oak",
+            product_price:550.00
+        }
+    ]
+);
+
+db.product.find();

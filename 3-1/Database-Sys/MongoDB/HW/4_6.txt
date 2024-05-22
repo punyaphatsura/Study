@@ -1,0 +1,57 @@
+db.getCollection('orders_w_lines').aggregate(
+  [
+    {
+      $group: {
+        _id: '$customer_id',
+        order_count: { $sum: 1 }
+      }
+    },
+    { $sort: { order_count: -1 } },
+    {
+      $lookup: {
+        from: 'customer',
+        localField: '_id',
+        foreignField: 'customer_id',
+        as: 'customerDetail'
+      }
+    },
+    { $unwind: '$customerDetail' },
+    {
+      $project: {
+        _id: 0,
+        customer_id: '$_id',
+        customer_name:
+          '$customerDetail.customer_name',
+        order_count: '$order_count'
+      }
+    },
+    {
+      $group: {
+        _id: null,
+        maxOrder: { $max: '$order_count' },
+        cus: {
+          $push: {
+            customer_id: '$customer_id',
+            customer_name: '$customer_name',
+            order_count: '$order_count'
+          }
+        }
+      }
+    },
+    { $unwind: '$cus' },
+    {
+      $match: {
+        $expr: {
+          $eq: ['$maxOrder', '$cus.order_count']
+        }
+      }
+    },
+    {
+      $project: {
+        _id: 0,
+        customer_id: '$cus.customer_id',
+        customer_name: '$cus.customer_name'
+      }
+    }
+  ]
+);
