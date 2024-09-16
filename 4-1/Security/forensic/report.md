@@ -36,12 +36,11 @@ To completely delete a file from an HDD, overwrite it at least once with random 
 
 To ensure files are fully deleted on a magnetic hard disk, I will use 3 passes for this calculation.
 
-For a single-pass overwrite on a modern HDD with a write speed of 150 MB/s:
-
+    For a single-pass overwrite on a modern HDD with a write speed of 150 MB/s:
     1 TB = 1,000,000 MB
     Time = 1,000,000 MB / 150 MB/s ≈ 6,667 seconds ≈ 1.85 hours
-    Thus, for 3 passes:
 
+    Thus, for 3 passes:
     Total time = 1.85 hours x 3 ≈ 5.55 hours
 
 ### 5. Will file carving be able to recover deleted files on an SSD? Why or why not?
