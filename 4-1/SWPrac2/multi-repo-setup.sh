@@ -27,6 +27,7 @@ fi
 # Add personal repo URL to 'all' remote
 echo "Adding personal repo to 'all'..."
 git remote set-url --add --push all "$personal_repo"
+git remote set-url --add --push all "$classroom_repo"
 
 # Ensure origin is set as the primary remote (optional, assuming main branch)
 current_branch=$(git symbolic-ref --short HEAD)
