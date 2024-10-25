@@ -38,6 +38,11 @@ git branch -u origin/main
 echo "Updated remotes:"
 git remote -v
 
+# Check if commit_msg has 1 digit or not, put 0 in front if it does
+if [[ ${#commit_msg} -eq 1 ]]; then
+  commit_msg="0$commit_msg"
+fi
+
 # Stage all changes, commit, and push to both repositories
 echo "Staging and committing changes..."
 git add .
