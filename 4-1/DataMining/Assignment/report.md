@@ -1,4 +1,4 @@
-# Assignment1 k-Nearest Neighbors
+# Assignment1 K-Nearest Neighbors
 
 **Punyaphat Surakiatkamjorn 6432106821**
 
