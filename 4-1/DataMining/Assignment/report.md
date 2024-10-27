@@ -202,7 +202,9 @@ plt.show()
 
 The evaluation of various k values revealed that the model achieved its highest accuracy at k=4, with a remarkable accuracy of 97.14%. This indicates that the k-NN classifier performed exceptionally well in distinguishing between benign and malignant cases.
 
-`Highest accuracy: 0.9714285714285714 , with K = 4`
+```
+Highest accuracy: 0.9714285714285714 , with K = 4
+```
 
 ![alt text](image-1.png)
 
