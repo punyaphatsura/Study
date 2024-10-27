@@ -1,5 +1,9 @@
 # Assignment1 k-Nearest Neighbors
 
+**Punyaphat Surakiatkamjorn 6432106821**
+
+**Colab** [**Link**](https://colab.research.google.com/drive/1_j2RK4wIOvHPMdER8AkWyuNHeRwSHaPO?usp=sharing)
+
 ## Preprocessing data
 
 ### Data Information
@@ -40,10 +44,6 @@ The class column originally contains values 2 (benign) and 4 (malignant). These 
 ```python
 data['class'] = data['class'].map({2: 0, 4: 1})
 ```
-
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
 
 #### **Fill in Missing values, if exist (try using Mode value)**
 
