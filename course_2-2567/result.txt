@@ -1,0 +1,119 @@
+Course No: 2110430
+Course Name: การทำเหมืองข้อมูลอนุกรมเวลาและการค้นหาความรู้ (TIME SERIES MINING AND KNOWLEDGE DISCOVERY)
+
+Sections:
+Section No: 21
+Note: APPROVED CP
+Day of Week: FR
+Period: 09:00 - 12:00
+ Teachers: CRN
+
+---------------------------
+
+Course No: 2110433
+Course Name: คอมพิวเตอร์วิชัน (COMPUTER VISION)
+
+Sections:
+Section No: 21
+Note: APPROVED
+Day of Week: MO
+Period: 13:00 - 16:00
+ Teachers: TCB
+
+---------------------------
+
+Course No: 2110475
+Course Name: การออกแบบวงจรรวมขนาดใหญ่มาก (VLSI DESIGN)
+
+Sections:
+Section No: 21
+Note: APPROVED CP
+Day of Week: MO
+Period: 09:30 - 12:30
+ Teachers: ATT
+
+---------------------------
+
+Course No: 2110514
+Course Name: คอมพิวเตอร์กราฟิกส์และการจำลองทางฟิสิกส์แบบเรียลไทม์ (REALTIME COMPUTER GRAPHICS AND PHYSICS SIMULATION)
+
+Sections:
+Section No: 21
+Note: APPROVED CP
+Day of Week: MO
+Period: 13:00 - 16:00
+ Teachers: NCN
+
+---------------------------
+
+Course No: 2110511
+Course Name: การเขียนโปรแกรมเกม (GAME PROGRAMMING)
+
+Sections:
+Section No: 21
+Note: APPROVED CP
+Day of Week: WE
+Period: 09:30 - 12:30
+ Teachers: VKJ
+
+---------------------------
+
+Course No: 2110512
+Course Name: คอมพิวเตอร์แอนิเมชัน (COMPUTER ANIMATION)
+
+Sections:
+Section No: 21
+Note: APPROVED CP
+Day of Week: TH
+Period: 13:00 - 16:00
+ Teachers: PKY
+
+---------------------------
+
+Course No: 2110524
+Course Name: เทคโนโลยีคลาวด์คอมพิวติง (CLOUD COMPUTING TECHNOLOGY)
+
+Sections:
+Section No: 21
+Note: APPROVED CP
+Day of Week: WE
+Period: 13:00 - 16:00
+ Teachers: KSC
+
+---------------------------
+
+Course No: 2110571
+Course Name: โครงข่ายประสาท (NEURAL NETWORK)
+
+Sections:
+Section No: 21
+Note: APPROVED CP
+Day of Week: MO
+Period: 13:00 - 16:00
+ Teachers: SSY
+
+---------------------------
+
+Course No: 2110561
+Course Name: การผลิตเชิงคำนวณ (COMPUTATIONAL FABRICATION)
+
+Sections:
+Section No: 21
+Note: APPROVED CP
+Day of Week: WE
+Period: 13:00 - 16:00
+ Teachers: PSA
+
+---------------------------
+
+Course No: 2110572
+Course Name: ระบบการประมวลภาษาธรรมชาติ (NATURAL LANGUAGE PROCESSING SYSTEMS)
+
+Sections:
+Section No: 21
+Note: APPROVED
+Day of Week: MO
+Period: 09:30 - 12:30
+ Teachers: ECN
+
+---------------------------
