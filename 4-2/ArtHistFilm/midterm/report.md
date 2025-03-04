@@ -1,4 +1,5 @@
 # Design idea
+Punyaphat Surakiatkamjorn (Peem) 6432106821
 
 ## Poster Size
 - The first thing that came to my mind is the years in Paris that occur in the movie. The poster size is 2010 × 1920 pixels. 2010 represents modern Paris in the main timeline, and 1920 is the year Gil travels back to.
